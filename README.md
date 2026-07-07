@@ -1,271 +1,99 @@
-<h1 align="center">Hi 👋, I'm Sumit Ghatul</h1>
+# Hi 👋, I'm Sumit Ghatul
 
-<h3 align="center">
-AI/ML Engineer | Data Scientist | Python Developer
-</h3>
+<h3 align="center">AI/ML Engineer | Data Scientist | Python Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Deep+Learning;Computer+Vision;Generative+AI;Building+Smart+AI+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Data+Scientist;Python+Developer;Generative+AI+Enthusiast;Building+AI+Applications" />
 </p>
 
 <p align="center">
-<a href="https://github.com/sumit388k">
-<img src="https://komarev.com/ghpvc/?username=sumit388k&label=Profile+Views&color=yellow&style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=sumit388k&label=Profile%20Views&color=yellow&style=for-the-badge"/>
 </p>
 
----
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
+- 🎓 B.E Computer Engineering
+- 🤖 AI/ML & Data Science Enthusiast
+- 🌱 Learning LLMs, LangChain, MLOps, Generative AI
+- 💡 Building practical AI applications with Python
 
-🎓 B.Tech in Computer Engineering
+## 🌐 Connect
 
-🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
+- LinkedIn: https://linkedin.com/in/sumit-ghatul-8263872b4/
+- Email: sumitghatul@gmail.com
+- Portfolio: 🌐 https://sumit388k.github.io
+- Hugging Face: https://huggingface.co/sumit65684
 
-💡 I enjoy building AI-powered applications that solve real-world problems.
+## 💻 Tech Stack
 
-🌱 Currently Learning
-
-- MLOps
-- Large Language Models (LLMs)
-- LangChain
-- Generative AI
-- RAG Applications
-
-⚡ Fun Fact
-
-I love automating everything using Python.
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/leetcode/F89F1B"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://cdn.simpleicons.org/googlechrome"/>
-</a>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python" width="42"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="42"/>
+<img src="https://skillicons.dev/icons?i=java" width="42"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="42"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="42"/>
+<img src="https://skillicons.dev/icons?i=streamlit" width="42"/>
+<img src="https://skillicons.dev/icons?i=git" width="42"/>
+<img src="https://skillicons.dev/icons?i=github" width="42"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="42"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="42"/>
 </p>
 
----
+## 🚀 Featured Projects
 
-# 💻 Tech Stack
+### 📄 Resume Analyzer
+AI-powered ATS Resume Analyzer using NLP, Streamlit and Machine Learning.
+
+### 🎬 Movie Recommendation System
+Content-based movie recommender with TMDB posters.
+
+### 🤖 Jarvis AI Personal Voice Assistant
+Features:
+- Voice Commands
+- AI Chat
+- Web Search
+- Weather & News
+- Email Automation
+- Open Apps
+- File Automation
+- Text-to-Speech
+- Speech-to-Text
+
+**Tech:** Python, Streamlit, LangChain, Gemini/OpenAI, Whisper, SpeechRecognition, pyttsx3,Tavily API
+
+## 📊 GitHub Stats
+
+> Replace `sumit388k` if your username changes.
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=streamlit"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 📄 Resume Analyzer
-
-AI-powered Resume Analyzer that evaluates resumes using ATS score, NLP and Machine Learning.
-
-### Features
-
-- ATS Resume Score
-- Skill Extraction
-- Resume Parsing
-- Improvement Suggestions
-- PDF Upload
-- Beautiful Streamlit UI
-
-**Tech Stack**
-
-Python • NLP • Streamlit • Scikit-Learn • Pandas
-
----
-
-## 🎬 Movie Recommendation System
-
-Content-Based Movie Recommendation System using Machine Learning and TMDB API.
-
-### Features
-
-- Movie Recommendation
-- TMDB Posters
-- Similar Movies
-- Fast Recommendation
-- Responsive UI
-
-**Tech Stack**
-
-Python • Pandas • Streamlit • Machine Learning • TMDB API
-
----
-
-## 🤖 Jarvis AI Personal Voice Assistant
-
-An intelligent AI-powered desktop assistant that understands voice commands and automates daily tasks using LLMs.
-
-### Features
-
-🎙 Voice Recognition
-
-🧠 AI Chat Assistant
-
-🌐 Web Search
-
-📧 Send Emails
-
-📰 Latest News
-
-🌦 Weather Updates
-
-🎵 Play Music
-
-📂 File Automation
-
-📅 Calendar Support
-
-🖥 Open Applications
-
-🔊 Text-to-Speech
-
-🎤 Speech-to-Text
-
-🤖 ChatGPT / Gemini Support
-
-🔍 Tavily AI Search
-
-📄 PDF Question Answering
-
-💬 Natural Conversation
-
-### Tech Stack
-
-Python
-
-Streamlit
-
-LangChain
-
-OpenAI API
-
-Gemini API
-
-Whisper
-
-SpeechRecognition
-
-pyttsx3
-
-Selenium
-
-Tavily API
-
-SQLite
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumit388k&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sumit388k&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumit388k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=sumit388k&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit388k&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit388k&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumit388k&theme=algolia&margin-w=10&margin-h=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=sumit388k&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit388k&theme=github-compact"/>
-
 </p>
 
----
+## 🐍 Snake Animation
 
-# 🐍 Contribution Snake
+> Configure the GitHub Action from Platane/snk to make this image appear.
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sumit388k/sumit388k/output/github-contribution-grid-snake.svg"/>
-
-</p>
+```md
+https://raw.githubusercontent.com/sumit388k/sumit388k/output/github-contribution-grid-snake.svg
+```
 
 ---
 
-# 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- LangChain
-- MLOps
-- LLMs
-- Generative AI
-- RAG
-- AI Agents
-
----
-
-# 💡 Quote
-
-> "Turning Ideas into Intelligent AI Solutions."
-
----
-
-<h2 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h2>
+⭐ **Thanks for visiting my profile!**
