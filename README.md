@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/sumit388k/sumit388k/main/banner.png" alt="Sumit Ghatul Banner" width="100%">
-</p>
+</p> 
 
 <h1 align="center">Hi 👋, I'm Sumit Ghatul</h1>
 
