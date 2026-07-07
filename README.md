@@ -1,13 +1,17 @@
-<h1 align="center">
-  Hi 👋, I'm Sumit Ghatul
-</h1>
+<h1 align="center">Hi 👋, I'm Sumit Ghatul</h1>
 
 <h3 align="center">
 AI/ML Engineer | Data Scientist | Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F7C600&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Deep+Learning;Computer+Vision;Generative+AI;Building+Smart+AI+Applications" />
+</p>
+
+<p align="center">
+<a href="https://github.com/sumit388k">
+<img src="https://komarev.com/ghpvc/?username=sumit388k&label=Profile+Views&color=yellow&style=for-the-badge"/>
+</a>
 </p>
 
 ---
@@ -16,22 +20,21 @@ AI/ML Engineer | Data Scientist | Python Developer
 
 🎓 B.Tech in Computer Engineering
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
 
-📊 Interested in Data Science, Deep Learning & Computer Vision
-
-🚀 Building Real World AI Applications
+💡 I enjoy building AI-powered applications that solve real-world problems.
 
 🌱 Currently Learning
 
 - MLOps
-- Large Language Models
-- Generative AI
+- Large Language Models (LLMs)
 - LangChain
+- Generative AI
+- RAG Applications
 
 ⚡ Fun Fact
 
-> I love automating things with Python.
+I love automating everything using Python.
 
 ---
 
@@ -40,30 +43,26 @@ AI/ML Engineer | Data Scientist | Python Developer
 <p align="left">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-
-<a href="https://github.com/sumit388k">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://cdn.simpleicons.org/leetcode" width="48"/>
+<img src="https://cdn.simpleicons.org/leetcode/F89F1B"/>
 </a>
 
 <a href="https://YOUR_PORTFOLIO">
-<img src="https://cdn.simpleicons.org/googlechrome" width="48"/>
+<img src="https://cdn.simpleicons.org/googlechrome"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -87,35 +86,112 @@ AI/ML Engineer | Data Scientist | Python Developer
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
+<img src="https://skillicons.dev/icons?i=linux"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📄 Resume Analyzer
+## 📄 Resume Analyzer
 
-AI Powered Resume Analyzer using NLP, ATS Scoring and Streamlit.
+AI-powered Resume Analyzer that evaluates resumes using ATS score, NLP and Machine Learning.
 
-**Tech Used**
+### Features
 
-- Python
-- Streamlit
-- Scikit-Learn
-- NLP
+- ATS Resume Score
+- Skill Extraction
+- Resume Parsing
+- Improvement Suggestions
+- PDF Upload
+- Beautiful Streamlit UI
+
+**Tech Stack**
+
+Python • NLP • Streamlit • Scikit-Learn • Pandas
 
 ---
 
-### 🎬 Movie Recommendation System
+## 🎬 Movie Recommendation System
 
-Content Based Movie Recommendation System using TMDB API.
+Content-Based Movie Recommendation System using Machine Learning and TMDB API.
 
-**Tech Used**
+### Features
 
-- Python
-- Pandas
-- Machine Learning
-- Streamlit
+- Movie Recommendation
+- TMDB Posters
+- Similar Movies
+- Fast Recommendation
+- Responsive UI
+
+**Tech Stack**
+
+Python • Pandas • Streamlit • Machine Learning • TMDB API
+
+---
+
+## 🤖 Jarvis AI Personal Voice Assistant
+
+An intelligent AI-powered desktop assistant that understands voice commands and automates daily tasks using LLMs.
+
+### Features
+
+🎙 Voice Recognition
+
+🧠 AI Chat Assistant
+
+🌐 Web Search
+
+📧 Send Emails
+
+📰 Latest News
+
+🌦 Weather Updates
+
+🎵 Play Music
+
+📂 File Automation
+
+📅 Calendar Support
+
+🖥 Open Applications
+
+🔊 Text-to-Speech
+
+🎤 Speech-to-Text
+
+🤖 ChatGPT / Gemini Support
+
+🔍 Tavily AI Search
+
+📄 PDF Question Answering
+
+💬 Natural Conversation
+
+### Tech Stack
+
+Python
+
+Streamlit
+
+LangChain
+
+OpenAI API
+
+Gemini API
+
+Whisper
+
+SpeechRecognition
+
+pyttsx3
+
+Selenium
+
+Tavily API
+
+SQLite
 
 ---
 
@@ -141,7 +217,7 @@ Content Based Movie Recommendation System using TMDB API.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sumit388k&theme=algolia&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sumit388k&theme=algolia&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -157,16 +233,39 @@ Content Based Movie Recommendation System using TMDB API.
 
 ---
 
-# 👀 Profile Views
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sumit388k&label=Profile+Views&color=yellow&style=for-the-badge"/>
+<img src="https://raw.githubusercontent.com/sumit388k/sumit388k/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-<h3 align="center">
-⭐ If you like my projects, don't forget to Star them ⭐
-</h3>
+# 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- LangChain
+- MLOps
+- LLMs
+- Generative AI
+- RAG
+- AI Agents
+
+---
+
+# 💡 Quote
+
+> "Turning Ideas into Intelligent AI Solutions."
+
+---
+
+<h2 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h2>
